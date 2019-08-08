@@ -1,0 +1,8 @@
+#movies{
+    background-color: lightskyblue;
+    border: 1px solid black;
+    text-align: center;
+}
+.title {
+    font-size:italic;
+}
